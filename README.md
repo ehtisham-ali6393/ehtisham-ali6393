@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Ehtisham Ali
-- 👀 I’m interested in WebDev and Cloud Technology.
-- 🌱 I’m currently learning Node.js and completing my Microsoft Azure Fundamentals (Az-900) certification.
-- 💞️ I’m looking to collaborate and freelance on Front-end Web Development projects.
-- 📫 You can reach me through my LinkedIn: www.linkedin.com/in/ehtishamali23 OR you can mail me at ehtishamofficial23@gmail.com
+- 👋 Hey there! I'm Ehtisham Ali, a passionate front-end developer with a knack for crafting dynamic and engaging web experiences. 
+- My toolkit includes HTML, CSS, JavaScript, PHP, MySQL, and more. 
+-  💻 When I'm not coding, you can find me exploring the endless possibilities of cloud technology,
+    fueled by my specialization in Cloud Technology and Information Security during my B.Tech CSE journey.
+- 🎓 Currently in my 4th year, I'm dedicated to honing my skills and staying ahead of the curve in the ever-evolving tech landscape.
+- Oh, and did I mention? I'm Microsoft Azure Fundamental certified! ☁️
+- Let's connect and geek out over all things cloud! #CloudEnthusiast 🚀
+- 📫LinkedIn: www.linkedin.com/in/ehtishamali23 OR you can mail me at ehtishamofficial23@gmail.com
 
 
 
